@@ -347,8 +347,7 @@
 			var result = last[0];
 			arr[index] = result*1;
 		})
-		//arr = val3.split(',');
-		console.log(arr);
+		
 		return arr;
 	}
 
@@ -358,7 +357,6 @@
 	};
 
 	DayForecast.prototype._getStateClassname = function(state) {
-		console.log(state);
 		var c = 'slice--state-';
 		switch(state) {
 			case 1 : c += 'sunny'; break;

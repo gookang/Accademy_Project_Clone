@@ -115,7 +115,7 @@
 								<use xlink:href="#icon-drop"></use></svg></a>
 							</div>
 							<h1 class="codrops-header__title">전국날씨</h1><div style="width: 100px;"></div>
-							<small>today 의 0 부분은 이미 지난 시간이거나 현재라서 반영이 되지 않는 시간대 입니다.</small>
+							<small>today 의 0 부분은 이미 지난 시간이거나 현재라서 반영이 되지 않는 시간대 입니다. 어디야</small>
 						</div>
 							<!-- Custom select will be populated dynamically -->
 						<div class="custom-select"></div>
