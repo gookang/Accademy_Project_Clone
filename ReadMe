@@ -1,0 +1,2 @@
+webapp/resources/sql 에 테이블만드는 sql 과 더미데이터sql 이 들어있습니다.
+꼭 먼저 새로운 스키마를 pitapet 으로 만드신 후 위의 sql 문 2개를 복사하여 실행해주세요.
