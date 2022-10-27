@@ -1,2 +1,8 @@
 webapp/resources/sql 에 테이블만드는 sql 과 더미데이터sql 이 들어있습니다.
 꼭 먼저 새로운 스키마를 pitapet 으로 만드신 후 위의 sql 문 2개를 복사하여 실행해주세요.
+
+참고로 이메일 인증은 제 아이디 보안상 문제로 비밀번호를 바꿔서 전송이 불가합니다.
+http://naver.me/5xnkqxeo
+여기서 영상으로 확인해주시기 바랍니다.
+
+가져가서 참고하실분들은 root-context.xml 파일안에 username, password 를 본인걸로 변경하시고 진행하시면 되실겁니다~
